@@ -1,0 +1,12 @@
+{
+  "name": "immutable-flow",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "flow-bin": "0.93.0"
+  },
+  "dependencies": {
+    "immutable": "4.0.0-rc.12"
+  }
+}
